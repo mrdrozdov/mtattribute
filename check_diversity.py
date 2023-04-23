@@ -33,9 +33,9 @@ name_jobs = {len(uname_jobs)}
 def main():
     # Read
     seed_file = f'outputs/cache.n_100.k_10.temp_0_3/agents.jsonl'
-    agents = read_agent_file(seed_file)
+    seed_agents = read_agent_file(seed_file)
     print(f'SEED = {seed_file}')
-    evaluate(agents)
+    evaluate(seed_agents)
 
     results = {}
     expdir = 'outputs/seeded-v1'
@@ -43,20 +43,24 @@ def main():
         if not filename.endswith('jsonl'):
             continue
         print('-' * 80)
+        ix = int(filename.split('.')[-2])
+        a = seed_agents[ix]
         filename = f'{expdir}/{filename}'
         agents = read_agent_file(filename)
         print(f'{filename}')
-        results[filename] = evaluate(agents)
+        results[filename] = (evaluate(agents), a)
 
     print('--- BY JOBS ---')
 
-    for k, v in sorted(results.items(), key=lambda x: -x[1]['jobs']):
-        print(v, k)
+    for k, v in sorted(results.items(), key=lambda x: -x[1][0]['jobs']):
+        v, a = v
+        print(v, k, a['name'], a['job'])
 
     print('--- BY NAME ---')
 
-    for k, v in sorted(results.items(), key=lambda x: -x[1]['names']):
-        print(v, k)
+    for k, v in sorted(results.items(), key=lambda x: -x[1][0]['names']):
+        v, a = v
+        print(v, k, a['name'], a['job'])
 
 
 if __name__ == '__main__':
