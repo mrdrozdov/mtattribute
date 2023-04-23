@@ -1,0 +1,200 @@
+result: {'id': 0, 'name': 'Avery Johnson', 'job': 'Software Engineer', 'description': 'Avery is a highly skilled software engineer who loves working on complex algorithms and data structures.'}
+['https://replicate.delivery/pbxt/OcDhCtsJcvqkExq5mwLqbeMO7qfptfecw4dqWkfyE8UTemNNE/out-0.png']
+result: {'id': 1, 'name': 'Samantha Lee', 'job': 'Marketing Manager', 'description': 'Samantha is a creative and strategic marketing manager who excels at developing and executing successful campaigns.'}
+['https://replicate.delivery/pbxt/ffnpflrXW2MbKJnDKe1pu3rnbeHU87R57RDkA5tsVUmHfmNNE/out-0.png']
+result: {'id': 2, 'name': 'Maxwell Chen', 'job': 'Investment Banker', 'description': 'Maxwell is a driven investment banker who specializes in mergers and acquisitions and has a keen eye for identifying profitable opportunities.'}
+['https://replicate.delivery/pbxt/oG4spubVv6pZFhEmXGZv4Y7TYBsi5YmKs55Mou3dUvRDnNNE/out-0.png']
+result: {'id': 3, 'name': 'Olivia Rodriguez', 'job': 'Graphic Designer', 'description': 'Olivia is a talented graphic designer who has a passion for creating beautiful and impactful designs.'}
+['https://replicate.delivery/pbxt/FEMIt74gmgoSGx0DqDueNGSLTIzCttdnKW58l662lCwJObaIA/out-0.png']
+result: {'id': 4, 'name': 'Ethan Kim', 'job': 'Product Manager', 'description': 'Ethan is a strategic product manager who is skilled at identifying customer needs and developing innovative solutions.'}
+['https://replicate.delivery/pbxt/dSykNLC7C25fNSlgxoywZP5lpCjYy2qUnmlVVn2ifj7Xc20QA/out-0.png']
+result: {'id': 5, 'name': 'Isabella Wong', 'job': 'UX Designer', 'description': 'Isabella is a user experience designer who is passionate about creating intuitive and engaging digital experiences.'}
+['https://replicate.delivery/pbxt/SssIEXHTGZp8H1x4P9tPgotUu9xGJu3AMu9eDoPVhGhOObaIA/out-0.png']
+result: {'id': 6, 'name': 'Nathan Patel', 'job': 'Data Scientist', 'description': 'Nathan is a data scientist who is skilled at analyzing complex data sets and developing predictive models.'}
+['https://replicate.delivery/pbxt/RJDFSUArv860MVlv3GA09f8jobgffO0rHLFntAU1SqrF5sphA/out-0.png']
+result: {'id': 7, 'name': 'Sophia Nguyen', 'job': 'Journalist', 'description': 'Sophia is an investigative journalist who is passionate about uncovering the truth and holding those in power accountable.'}
+['https://replicate.delivery/pbxt/C5URwha2bj7mPRsFyLDUPp5nBfIpATSJtMpHD7ILW92XObaIA/out-0.png']
+result: {'id': 8, 'name': 'William Kim', 'job': 'Management Consultant', 'description': 'William is a management consultant who specializes in helping companies improve their operations and increase profitability.'}
+['https://replicate.delivery/pbxt/lwNJrxEMBoKvEppjzdtf3sQ7FzmaEIfG2Zi7kkYs5ug4c20QA/out-0.png']
+result: {'id': 9, 'name': 'Emily Chen', 'job': 'Social Media Manager', 'description': 'Emily is a social media manager who is skilled at developing and executing successful social media campaigns that drive engagement and brand awareness.'}
+['https://replicate.delivery/pbxt/AYm4lL63jzbeFaGU7FAdfTZFyUQLxKzM5yyfbbdBfVSC0ZTDB/out-0.png']
+result: {'id': 0, 'name': 'Emily Nguyen', 'job': 'Software Engineer', 'description': 'Emily is a software engineer who loves to code and is always looking for new challenges to solve.'}
+['https://replicate.delivery/pbxt/ccj1Xt7eLfrg0UgFuoTciwjCMXROIWRCz1oKXWxZ53wGd20QA/out-0.png']
+result: {'id': 1, 'name': 'David Kim', 'job': 'Marketing Manager', 'description': 'David is a marketing manager who is passionate about creating innovative campaigns that resonate with consumers.'}
+['https://replicate.delivery/pbxt/VJVc931Yml5cGByuF9lCMm4d8vfLWFF3llfyBFc6dmbPd20QA/out-0.png']
+result: {'id': 2, 'name': 'Samantha Patel', 'job': 'Graphic Designer', 'description': 'Samantha is a graphic designer who loves to create beautiful and functional designs that make an impact.'}
+['https://replicate.delivery/pbxt/IDncXUlXAD4yJ5Ql8aWFkYNjPwrr14aFAHUIie2Lu4CqObaIA/out-0.png']
+result: {'id': 3, 'name': 'Michael Chen', 'job': 'Product Manager', 'description': 'Michael is a product manager who is always thinking about how to improve the user experience and drive business growth.'}
+['https://replicate.delivery/pbxt/sUT9WM3C1fVraCh9nsARGUnJYkGmtf4INme5dehS4k4o1ZTDB/out-0.png']
+result: {'id': 4, 'name': 'Ava Thompson', 'job': 'Journalist', 'description': 'Ava is a journalist who is passionate about uncovering the truth and telling compelling stories.'}
+['https://replicate.delivery/pbxt/Ow2zHLkeeKmZRUYywxXONtDv74QW8wXBHwtSsTXh17nf6sphA/out-0.png']
+result: {'id': 5, 'name': 'Ethan Lee', 'job': 'Financial Analyst', 'description': 'Ethan is a financial analyst who loves to dive into data and find insights that drive business decisions.'}
+['https://replicate.delivery/pbxt/eADf3XCiwzgLgEItO8gkBScJMWeinnYsTM0mcF45nrOI7sphA/out-0.png']
+result: {'id': 6, 'name': 'Olivia Rodriguez', 'job': 'Human Resources Manager', 'description': 'Olivia is a human resources manager who is dedicated to creating a positive and inclusive workplace culture.'}
+['https://replicate.delivery/pbxt/eI8f9PGiBgoCOEscdfaKH1W9CAfxeLStLhxb0Lq3ssUvtzmGC/out-0.png']
+result: {'id': 7, 'name': 'William Baker', 'job': 'Sales Representative', 'description': 'William is a sales representative who loves to build relationships with clients and help them find the perfect solution for their needs.'}
+['https://replicate.delivery/pbxt/Ku7cebQ7Ta0EeEpR9XnXr0Xp5MmTKBTwGrey8QNfzLSL3ZTDB/out-0.png']
+result: {'id': 8, 'name': 'Sophia Kim', 'job': 'UX Designer', 'description': "Sophia is a UX designer who is passionate about creating intuitive and user-friendly interfaces that make people's lives easier."}
+['https://replicate.delivery/pbxt/47xvpKB0nGLNP9fELbUlJgSzGBHeuYQMc1o4fPNzEPcw7sphA/out-0.png']
+result: {'id': 9, 'name': 'Daniel Hernandez', 'job': 'Data Scientist', 'description': 'Daniel is a data scientist who loves to use data to solve complex problems and uncover insights that drive business value.'}
+['https://replicate.delivery/pbxt/HEyfAEFXmPzFOazMYFIfxYVfOtntz9voxtmCGLHuqez23ZTDB/out-0.png']
+result: {'id': 0, 'name': 'Oliver Martinez', 'job': 'Software Engineer', 'description': 'Oliver is a tech enthusiast who loves to code and build software applications. He is always up-to-date with the latest technologies and enjoys working on challenging projects.'}
+['https://replicate.delivery/pbxt/euCKU3WVv0RYJ6Rb7NxWCnXZue2Bto8BRPIfdzjTgmxE8sphA/out-0.png']
+result: {'id': 1, 'name': 'Sophie Lee', 'job': 'Marketing Manager', 'description': 'Sophie is a creative and strategic thinker who loves to come up with innovative marketing campaigns. She has a keen eye for detail and is always looking for ways to improve the customer experience.'}
+['https://replicate.delivery/pbxt/SxrHb2bJncZSEdbf2RaxeUY2haKXpvAT3AEGtcXrfCPQ8sphA/out-0.png']
+result: {'id': 2, 'name': 'David Kim', 'job': 'Product Manager', 'description': 'David is a results-driven product manager who is passionate about building products that solve real-world problems. He is an excellent communicator and collaborator, and always puts the customer first.'}
+['https://replicate.delivery/pbxt/DDtvfyz9usQRLyKNcS67Je7OtBbO42eYGEwJfdnwUjL34ZTDB/out-0.png']
+result: {'id': 3, 'name': 'Emily Chen', 'job': 'UX Designer', 'description': 'Emily is a talented UX designer who is passionate about creating user-centered designs. She has a deep understanding of user behavior and is always looking for ways to improve the user experience.'}
+['https://replicate.delivery/pbxt/Xgi7t6RqWVKsNJMJWpSklMw8aRMepzj1iD6kIBj3xAHJPbaIA/out-0.png']
+result: {'id': 4, 'name': 'Maxwell Johnson', 'job': 'Data Scientist', 'description': 'Maxwell is a data scientist who loves to work with large datasets and extract insights from them. He is skilled in machine learning and statistical analysis, and is always looking for ways to improve his models.'}
+['https://replicate.delivery/pbxt/PiqmFuccrcLgAlgxkaS5cZ4aVOQyPus8T6KsUXD58VxlnNNE/out-0.png']
+result: {'id': 5, 'name': 'Avery Patel', 'job': 'Graphic Designer', 'description': 'Avery is a creative and talented graphic designer who loves to create visually stunning designs. She has a keen eye for detail and is always looking for ways to push the boundaries of design.'}
+['https://replicate.delivery/pbxt/pNAemCEhob07CCWejoNeEMjlUSZOQzjIc3rw7hqeJZBz5ZTDB/out-0.png']
+result: {'id': 6, 'name': 'Isabella Nguyen', 'job': 'Content Writer', 'description': 'Isabella is a skilled content writer who loves to write engaging and informative content. She has a deep understanding of SEO and is always looking for ways to improve her writing skills.'}
+['https://replicate.delivery/pbxt/ROMAyZnkAEqFNRCjVrhezWigmfMSW2DlZGwjARQsUX8iesphA/out-0.png']
+result: {'id': 7, 'name': 'Ethan Brown', 'job': 'Sales Manager', 'description': 'Ethan is a results-driven sales manager who is passionate about building relationships with customers. He has excellent communication skills and is always looking for ways to exceed his sales targets.'}
+['https://replicate.delivery/pbxt/2Vgt6MI7WPIWI9k0puk3EZLXSDsyk9fZYcEWvWIQ71pTPbaIA/out-0.png']
+result: {'id': 8, 'name': 'Mia Davis', 'job': 'HR Manager', 'description': 'Mia is a people-oriented HR manager who is passionate about creating a positive work environment. She is skilled in conflict resolution and is always looking for ways to improve employee engagement.'}
+['https://replicate.delivery/pbxt/qRcrvG05XV5gFBIWBcHS5xPJGxeAp0BirbP7Z22iSd0WPbaIA/out-0.png']
+result: {'id': 9, 'name': 'Noah Wilson', 'job': 'Project Manager', 'description': 'Noah is a highly organized project manager who is skilled in managing complex projects. He has excellent communication skills and is always looking for ways to improve project efficiency.'}
+['https://replicate.delivery/pbxt/YYMRAvOrVOLwLZleyxfiFRSeeioUd4plZkcTUMgIz6UI7ZTDB/out-0.png']
+result: {'id': 0, 'name': 'Evelyn Martinez', 'job': 'Software Engineer', 'description': 'Evelyn is a software engineer who loves to code and solve complex problems. She enjoys working on projects that challenge her skills and push her to learn new things.'}
+['https://replicate.delivery/pbxt/JB0o2GLssqZPDRrmPe2uDOh1gAwKKd5iz4L1iebCyQk3esphA/out-0.png']
+result: {'id': 1, 'name': 'Maxwell Kim', 'job': 'Product Manager', 'description': 'Maxwell is a product manager who is passionate about creating products that solve real-world problems. He enjoys working with cross-functional teams to bring new ideas to life.'}
+['https://replicate.delivery/pbxt/KurDjgXtwA5PKN8xP9H0ppBZNoTsVzM2zQbHcLtudfEeesphA/out-0.png']
+result: {'id': 2, 'name': 'Sophia Lee', 'job': 'UX Designer', 'description': 'Sophia is a UX designer who is passionate about creating intuitive and user-friendly interfaces. She enjoys conducting user research and iterating on designs to create the best possible user experience.'}
+['https://replicate.delivery/pbxt/qftBl0vNMuXBZiIQ4Om4TkLjNROZlFgXbzGBkR78Ii5gPbaIA/out-0.png']
+result: {'id': 3, 'name': 'William Chen', 'job': 'Data Scientist', 'description': 'William is a data scientist who loves working with data to uncover insights and solve complex problems. He enjoys using machine learning algorithms to build predictive models.'}
+['https://replicate.delivery/pbxt/U4WhnBYzRtIwOx2sXIlSGBXB4sgopQIrDH4rRedEH06jPbaIA/out-0.png']
+result: {'id': 4, 'name': 'Olivia Johnson', 'job': 'Marketing Manager', 'description': 'Olivia is a marketing manager who is passionate about creating compelling marketing campaigns that resonate with customers. She enjoys analyzing data to optimize campaigns and drive business results.'}
+['https://replicate.delivery/pbxt/cgfoVLfJZohtepicxM76aGXmZh8M7z6qbEG7nqj7gHfv8ZTDB/out-0.png']
+result: {'id': 5, 'name': 'Lucas Rodriguez', 'job': 'Graphic Designer', 'description': 'Lucas is a graphic designer who is passionate about creating visually stunning designs. He enjoys experimenting with different styles and techniques to create unique and memorable designs.'}
+['https://replicate.delivery/pbxt/t2KkQceTkz0cHinY5Yo6fjCUHOBne1fp2rBEE3HLvvMK9ZTDB/out-0.png']
+result: {'id': 6, 'name': 'Avery Thompson', 'job': 'Content Writer', 'description': 'Avery is a content writer who loves to write engaging and informative content. She enjoys researching and learning about new topics to create high-quality content that resonates with readers.'}
+['https://replicate.delivery/pbxt/26eALd7fvIk6Z0YX4GVuCqL7PqKoXjybm86PxGq5e3sveZTDB/out-0.png']
+result: {'id': 7, 'name': 'Nathan Patel', 'job': 'Product Designer', 'description': 'Nathan is a product designer who is passionate about creating products that are both functional and beautiful. He enjoys collaborating with cross-functional teams to create products that solve real-world problems.'}
+['https://replicate.delivery/pbxt/lDvG0fDrznXiUiKGVeMrYqSWsFzDYWg97SuHWlK2fgV7eZTDB/out-0.png']
+result: {'id': 8, 'name': 'Isabella Wong', 'job': 'Front-end Developer', 'description': 'Isabella is a front-end developer who loves to create responsive and interactive web applications. She enjoys experimenting with new technologies and frameworks to create cutting-edge user experiences.'}
+['https://replicate.delivery/pbxt/Zf8HKMkIPJThOaKzbSNKiDemPwfy8SXhq46mCvYS2Y2GfZTDB/out-0.png']
+result: {'id': 9, 'name': 'Ethan Kim', 'job': 'Full-stack Developer', 'description': 'Ethan is a full-stack developer who loves to build scalable and robust web applications. He enjoys working with both front-end and back-end technologies to create end-to-end solutions.'}
+['https://replicate.delivery/pbxt/JZR0fN4e1ktiCEJFhzYfnNSObdenwF7Np4DKCNyn0WxhezmGC/out-0.png']
+result: {'id': 0, 'name': 'Oliver Martinez', 'job': 'Software Engineer', 'description': 'Oliver is a passionate software engineer who loves to work on complex algorithms and data structures.'}
+['https://replicate.delivery/pbxt/1nqCwPBJEFL2DNMNFnHcHeXlY0cmK4QnU7MeF46sZmtufsphA/out-0.png']
+result: {'id': 1, 'name': 'Sophia Lee', 'job': 'Graphic Designer', 'description': 'Sophia is a creative graphic designer who enjoys designing logos, websites, and marketing materials.'}
+['https://replicate.delivery/pbxt/ENifivOWG8SDCCQhwE25tFptCfnczpAqW5eXjTnwyeCMfzmGC/out-0.png']
+result: {'id': 2, 'name': 'Ethan Nguyen', 'job': 'Marketing Manager', 'description': 'Ethan is a strategic marketing manager who excels at developing and executing marketing campaigns that drive business growth.'}
+['https://replicate.delivery/pbxt/Denxte7tpXn1Jk75ywDOEw5qD2g4xMR3L0IzYXgBZcz5fsphA/out-0.png']
+result: {'id': 3, 'name': 'Ava Patel', 'job': 'Product Manager', 'description': 'Ava is a detail-oriented product manager who is passionate about creating products that solve real-world problems.'}
+['https://replicate.delivery/pbxt/18igNq2OJNrdCRPgBO0OirD9UHvlXfADCcPVOJNvLC4efsphA/out-0.png']
+result: {'id': 4, 'name': 'William Kim', 'job': 'Data Scientist', 'description': 'William is a data scientist who loves to analyze complex data sets and extract insights that drive business decisions.'}
+['https://replicate.delivery/pbxt/0Z1AxvfYDxzJHq7H38k6A95fZenaFkopPplGR5WIIr3NAtphA/out-0.png']
+result: {'id': 5, 'name': 'Emma Davis', 'job': 'UX Designer', 'description': 'Emma is a user experience designer who is passionate about creating intuitive and engaging digital experiences.'}
+['https://replicate.delivery/pbxt/ReTfW9jL8bvoeo9TmwgoDODeDGVH0lc5afuCEk0OJjZkB0mGC/out-0.png']
+result: {'id': 6, 'name': 'Daniel Rodriguez', 'job': 'Sales Manager', 'description': 'Daniel is a results-driven sales manager who excels at building and managing high-performing sales teams.'}
+['https://replicate.delivery/pbxt/nJ6jEVDWYdLFKBbTtmakq6we6MGuouti24tmsx3HfEejAtphA/out-0.png']
+result: {'id': 7, 'name': 'Mia Johnson', 'job': 'Content Writer', 'description': 'Mia is a talented content writer who enjoys crafting compelling stories and engaging copy for a variety of audiences.'}
+['https://replicate.delivery/pbxt/gE3UMHq5C7bIPdMiDKoVnAi39n05tAofqGJ5kMzo8YeXg20QA/out-0.png']
+result: {'id': 8, 'name': 'Alexander Brown', 'job': 'Financial Analyst', 'description': 'Alexander is a detail-oriented financial analyst who specializes in financial modeling and forecasting.'}
+['https://replicate.delivery/pbxt/o9UjDNInXkofViTi5gEDeb7jvKHoyeO4CefpsorDBhtoD0mGC/out-0.png']
+result: {'id': 9, 'name': 'Isabella Garcia', 'job': 'Human Resources Manager', 'description': 'Isabella is a skilled human resources manager who excels at recruiting and retaining top talent.'}
+['https://replicate.delivery/pbxt/c7wf4Phen6uWeoftINv1x5ZEPpCaRjcDIOfhQRppLuSQE0mGC/out-0.png']
+result: {'id': 0, 'name': 'Emma Johnson', 'job': 'Software Engineer', 'description': 'Emma is a highly skilled software engineer who loves to solve complex problems and is always up for a challenge.'}
+['https://replicate.delivery/pbxt/EXRpoIzjr8ZYFlfjWtMLgHSrELMAfiO5Uu1qUR72GxQng20QA/out-0.png']
+result: {'id': 1, 'name': 'David Lee', 'job': 'Marketing Manager', 'description': 'David is a creative marketing manager who is passionate about developing innovative marketing strategies that drive business growth.'}
+['https://replicate.delivery/pbxt/lqxSfIuJ0sV9L641XMbUzfU0QPL1LQ7fok1V9YoTre83CaTDB/out-0.png']
+result: {'id': 2, 'name': 'Maria Rodriguez', 'job': 'Journalist', 'description': 'Maria is an investigative journalist who is dedicated to uncovering the truth and exposing corruption.'}
+['https://replicate.delivery/pbxt/sCYDk3iWKgL1AVWbzlouqEcNzeliKeo55DEe3lhqPHrkBtphA/out-0.png']
+result: {'id': 3, 'name': 'John Smith', 'job': 'Entrepreneur', 'description': 'John is a successful entrepreneur who has founded multiple companies and is always looking for new opportunities.'}
+['https://replicate.delivery/pbxt/ECqaqrPAGmYhBV0uRJnSt3zyBCiDKhekOpD7Fbl8FBgbQbaIA/out-0.png']
+result: {'id': 4, 'name': 'Sarah Chen', 'job': 'Product Designer', 'description': 'Sarah is a talented product designer who is passionate about creating beautiful and functional designs that enhance the user experience.'}
+['https://replicate.delivery/pbxt/EemUsyeh4bjF7kJIc1sd4s8mFv6OcRY7cXtp8FVcwdf4BtphA/out-0.png']
+result: {'id': 5, 'name': 'Michael Brown', 'job': 'Financial Analyst', 'description': 'Michael is a detail-oriented financial analyst who excels at analyzing data and providing insights that help businesses make informed decisions.'}
+['https://replicate.delivery/pbxt/83K72x5EN3JePaQrTdHieQgxZ72z94ir7ZIJ45fL0h8FCtphA/out-0.png']
+result: {'id': 6, 'name': 'Emily Davis', 'job': 'Human Resources Manager', 'description': 'Emily is a compassionate human resources manager who is dedicated to creating a positive and inclusive work environment for all employees.'}
+['https://replicate.delivery/pbxt/XF1o3oQcmewBe0SIxQRGtdhe8j3Df1GfK9e21NJCPd7WSoNNE/out-0.png']
+result: {'id': 7, 'name': 'Daniel Kim', 'job': 'Data Scientist', 'description': 'Daniel is a data scientist who is passionate about using data to solve complex problems and drive business growth.'}
+['https://replicate.delivery/pbxt/64fjlWDoE8xNSCOOMe9DbI05rmiSG1l2tn2Uahxzo6UOh20QA/out-0.png']
+result: {'id': 8, 'name': 'Ava Patel', 'job': 'UX Designer', 'description': 'Ava is a user experience designer who is passionate about creating intuitive and engaging designs that delight users.'}
+['https://replicate.delivery/pbxt/5CjM7qhUHZ7UOpseUzVZJSMavowObeqbdY2wxvY0VNZWh20QA/out-0.png']
+result: {'id': 9, 'name': 'William Jones', 'job': 'Product Manager', 'description': 'William is a strategic product manager who is dedicated to delivering products that meet customer needs and drive business growth.'}
+['https://replicate.delivery/pbxt/zadbOOflEVxyLSiP1iSJUCFCsciBBA1n6OfdkwCr4r1ch20QA/out-0.png']
+result: {'id': 0, 'name': 'Oliver Smith', 'job': 'Software Engineer', 'description': 'Oliver is a tech enthusiast who loves to build software applications. He is always up to date with the latest technologies and enjoys working on challenging projects.'}
+['https://replicate.delivery/pbxt/5fGUhf8YTMic4Et9smEEuy7jFyOXjPkOJembc62FWIpEDtphA/out-0.png']
+result: {'id': 1, 'name': 'Sophie Johnson', 'job': 'Graphic Designer', 'description': 'Sophie is a creative and talented graphic designer. She has a keen eye for detail and is passionate about creating visually stunning designs that capture the essence of a brand.'}
+['https://replicate.delivery/pbxt/FekikmabDaWPKqsAIQgDVaxUjrmY13k94JadcBq1Hv4zQbaIA/out-0.png']
+result: {'id': 2, 'name': 'William Lee', 'job': 'Marketing Manager', 'description': 'William is a strategic thinker who excels at developing and executing marketing campaigns. He has a deep understanding of consumer behavior and is always looking for new ways to reach and engage with customers.'}
+['https://replicate.delivery/pbxt/Z5p19KKe8X2SHShI2OnWR5TxOsu2hOAm5dx8PD9DeKSth20QA/out-0.png']
+result: {'id': 3, 'name': 'Emma Davis', 'job': 'Journalist', 'description': 'Emma is an investigative journalist who is dedicated to uncovering the truth. She is passionate about holding those in power accountable and is always on the lookout for her next big story.'}
+['https://replicate.delivery/pbxt/3NCi3IPHtPrpHRTaETCYYKkRYfJbUw8zmsXLiJBGMufyh20QA/out-0.png']
+result: {'id': 4, 'name': 'Lucas Garcia', 'job': 'Chef', 'description': "Lucas is a master chef who has trained in some of the world's best kitchens. He is passionate about creating delicious and innovative dishes that showcase the best of local and seasonal ingredients."}
+['https://replicate.delivery/pbxt/BiKXACdLW1JVNJkVyaq42nSdYftMu0RmVDPV9vaEoe67h20QA/out-0.png']
+result: {'id': 5, 'name': 'Ava Patel', 'job': 'Entrepreneur', 'description': 'Ava is a serial entrepreneur who has founded several successful startups. She is a visionary leader who is always looking for new opportunities to disrupt the status quo.'}
+['https://replicate.delivery/pbxt/fiv4F1MY3jUtZihcdegOVXHEiezw81YRWtScmkulzVtCEtphA/out-0.png']
+result: {'id': 6, 'name': 'Ethan Kim', 'job': 'Investment Banker', 'description': 'Ethan is a seasoned investment banker who has worked on some of the biggest deals in the industry. He is a strategic thinker who is always looking for ways to maximize value for his clients.'}
+['https://replicate.delivery/pbxt/NAOqCAXOWr5DIdn4UG4wCF1jf6zj165ynfLx0I3fQpsNEtphA/out-0.png']
+result: {'id': 7, 'name': 'Mia Chen', 'job': 'Product Manager', 'description': 'Mia is a product manager who is passionate about creating products that solve real-world problems. She is a skilled communicator who is able to bridge the gap between technical and non-technical stakeholders.'}
+['https://replicate.delivery/pbxt/uxmhoOQOtFLwFhOOe6NtfZ7VqGK28w9caCMGKgeHdbVUEtphA/out-0.png']
+result: {'id': 8, 'name': 'Noah Wilson', 'job': 'Athlete', 'description': 'Noah is a professional athlete who has competed at the highest levels of his sport. He is dedicated to his craft and is always looking for ways to improve his performance.'}
+['https://replicate.delivery/pbxt/JP9xxizOMa4CA95EfePLh9DOg2UfzlbvYBBLUs5OxkGgEtphA/out-0.png']
+result: {'id': 9, 'name': 'Chloe Brown', 'job': 'Fashion Designer', 'description': 'Chloe is a fashion designer who is known for her bold and innovative designs. She is always pushing the boundaries of what is possible in the world of fashion.'}
+['https://replicate.delivery/pbxt/uf7qDkdxbGz4dyY3QvTBndOh7rKJpzxpNd3iYguHh5xKRbaIA/out-0.png']
+result: {'id': 0, 'name': 'Sophia Kim', 'job': 'Software Engineer', 'description': 'Sophia is a software engineer who loves to solve complex problems and is passionate about creating innovative solutions.'}
+['https://replicate.delivery/pbxt/ZBs36wHGc56qGJOWt5SDIGp12nYG3VPu6oNIwZrbfjLNRbaIA/out-0.png']
+result: {'id': 1, 'name': 'James Chen', 'job': 'Investment Banker', 'description': 'James is an investment banker who enjoys analyzing financial data and helping clients make informed investment decisions.'}
+['https://replicate.delivery/pbxt/KCDp3k5MeT0qJyeXMzGmVJG7QrLrcvW1Gj9i6upYOaEgi20QA/out-0.png']
+result: {'id': 2, 'name': 'Avery Patel', 'job': 'Marketing Manager', 'description': 'Avery is a marketing manager who excels at developing creative campaigns and building strong relationships with clients.'}
+['https://replicate.delivery/pbxt/LT5DV8UCyBJSLFpHlIGhtUXjt5dhVs1FTVmWXPQ7IDdpoNNE/out-0.png']
+result: {'id': 3, 'name': 'Ethan Nguyen', 'job': 'Graphic Designer', 'description': 'Ethan is a graphic designer who has a keen eye for detail and a passion for creating visually stunning designs.'}
+['https://replicate.delivery/pbxt/VaWMXBrgpAo8Mh9qheo5hXg9LKcKYPsvqw2Ati4Gc1gVRbaIA/out-0.png']
+result: {'id': 4, 'name': 'Olivia Davis', 'job': 'Journalist', 'description': 'Olivia is a journalist who is dedicated to uncovering the truth and reporting on important issues that affect society.'}
+['https://replicate.delivery/pbxt/9d6LiBkvKtYUO5jdifpSxCBSFkzDdEA3nPX3tq7mXxWYRbaIA/out-0.png']
+result: {'id': 5, 'name': 'Noah Patel', 'job': 'Entrepreneur', 'description': 'Noah is an entrepreneur who is always looking for new opportunities and is not afraid to take risks to achieve success.'}
+['https://replicate.delivery/pbxt/bVZkcaJc2SK1NJnSjO024JOE8PfTx9KY1tt4Ik6blryaRbaIA/out-0.png']
+result: {'id': 6, 'name': 'Isabella Rodriguez', 'job': 'Psychologist', 'description': 'Isabella is a psychologist who is passionate about helping people overcome their mental health challenges and live fulfilling lives.'}
+['https://replicate.delivery/pbxt/A2OBv9P4Xg7VNR7MojKyV03f6n8aPFFjpSY3mNhvZJddRbaIA/out-0.png']
+result: {'id': 7, 'name': 'William Lee', 'job': 'Teacher', 'description': 'William is a teacher who is dedicated to helping his students learn and grow both academically and personally.'}
+['https://replicate.delivery/pbxt/clIvYx40W3LIIVUJCpVFXXi9up9E0mOhxOzsFlLagOKwoNNE/out-0.png']
+result: {'id': 8, 'name': 'Mia Johnson', 'job': 'Chef', 'description': 'Mia is a chef who loves experimenting with new ingredients and creating unique dishes that delight her customers.'}
+['https://replicate.delivery/pbxt/EIGfRGnqLuWJEShWVQp2CWR7K9J4lwlVMap0OHHeqAFFj20QA/out-0.png']
+result: {'id': 9, 'name': 'Elijah Brown', 'job': 'Athlete', 'description': 'Elijah is an athlete who is passionate about his sport and is always striving to improve his performance.'}
+['https://replicate.delivery/pbxt/n64QRnemBfpsFESomgdjPAUfq2LzeMfnkv6gps73WEf5yoNNE/out-0.png']
+result: {'id': 0, 'name': 'Oliver Stone', 'job': 'Film Director', 'description': 'Oliver is a passionate filmmaker who has directed several critically acclaimed movies.'}
+['https://replicate.delivery/pbxt/OAG5elf03VlOIUzeMUV9ysfdTATkS7OdNeJvTzFQG08Oa0mGC/out-0.png']
+result: {'id': 1, 'name': 'Samantha Lee', 'job': 'Software Engineer', 'description': 'Samantha is a skilled software engineer who loves to code and solve complex problems.'}
+['https://replicate.delivery/pbxt/naRZA07PqCLdK5XXyVEa25pV0Fpx4IwSZXPKieLkN6UrRbaIA/out-0.png']
+result: {'id': 2, 'name': 'Maggie Chen', 'job': 'Chef', 'description': 'Maggie is a talented chef who owns a popular restaurant in the city.'}
+['https://replicate.delivery/pbxt/VYtyIqKGWn6xNdlFZqPtjCpzIXmtx3of4nxU4HJi0GAuRbaIA/out-0.png']
+result: {'id': 3, 'name': 'Maxwell Kim', 'job': 'Investment Banker', 'description': 'Maxwell is a successful investment banker who works for a top firm on Wall Street.'}
+['https://replicate.delivery/pbxt/ertQsYzrB0XtL6dEpKWsXYpvRemzWwoqhaMzjwmzcffFOaTDB/out-0.png']
+result: {'id': 4, 'name': 'Lila Patel', 'job': 'Social Worker', 'description': 'Lila is a compassionate social worker who helps people in need.'}
+['https://replicate.delivery/pbxt/xyqH41nqSkrmElB5OFXEsVuDGZLxAfLIE9unskGyzC0yRbaIA/out-0.png']
+result: {'id': 5, 'name': 'Ethan Nguyen', 'job': 'Graphic Designer', 'description': 'Ethan is a creative graphic designer who has won several awards for his work.'}
+['https://replicate.delivery/pbxt/LqgfjOYHASzUYCfxbBkWHfYuhifqj8Te0dwdwiD44aHdd0mGC/out-0.png']
+result: {'id': 6, 'name': 'Avery Johnson', 'job': 'Professional Athlete', 'description': 'Avery is a talented professional athlete who plays for a major sports team.'}
+['https://replicate.delivery/pbxt/ufwofFFq6eRTJIw7Miv6zwy32lng29ACle50VETXXOYCPaTDB/out-0.png']
+result: {'id': 7, 'name': 'Nora Singh', 'job': 'Journalist', 'description': 'Nora is an investigative journalist who has exposed several major scandals.'}
+['https://replicate.delivery/pbxt/qYd2R0gss7a3KpxWvOlZWD7gGASwffb3SpqSqeFx6YRqHtphA/out-0.png']
+result: {'id': 8, 'name': 'Leo Wong', 'job': 'Entrepreneur', 'description': 'Leo is a successful entrepreneur who has founded several startups.'}
+['https://replicate.delivery/pbxt/SsdB0fEfHssEdU4yiFMetxPAoyXQkcITdDePuzit1asvPaTDB/out-0.png']
+result: {'id': 9, 'name': 'Isabella Martinez', 'job': 'Fashion Designer', 'description': 'Isabella is a renowned fashion designer who has showcased her designs at major fashion shows.'}
+['https://replicate.delivery/pbxt/WNA1oSM89eSkZaqF5Ds6uBWjAn91rUfukfILccoBvSJAItphA/out-0.png']
+result: {'id': 0, 'name': 'Emily Johnson', 'job': 'Software Engineer', 'description': 'Emily is a tech enthusiast who loves to code and is always up for a challenge. She is a problem solver and enjoys working on complex projects.'}
+['https://replicate.delivery/pbxt/QbOibzx1Q8KmL1ep7vSDgDn72EtbKP8vT0q4HxMKCh4CSbaIA/out-0.png']
+result: {'id': 1, 'name': 'David Lee', 'job': 'Marketing Manager', 'description': 'David is a creative and strategic thinker who loves to come up with new ideas to promote products and services. He is a great communicator and enjoys working with people.'}
+['https://replicate.delivery/pbxt/9k1uWUj92soWFpoRTIFurJizQPXFgV2WBUSu2qsMA6fFSbaIA/out-0.png']
+result: {'id': 2, 'name': 'Maria Rodriguez', 'job': 'Nurse Practitioner', 'description': 'Maria is a caring and compassionate healthcare professional who is dedicated to helping her patients. She is knowledgeable and skilled in diagnosing and treating a wide range of medical conditions.'}
+['https://replicate.delivery/pbxt/cK6F1ANrlCLzBRIRjFemfPZ7gjmtb5ER6uagmtNHBlQQk20QA/out-0.png']
+result: {'id': 3, 'name': 'John Smith', 'job': 'Financial Analyst', 'description': 'John is a detail-oriented and analytical thinker who enjoys working with numbers. He is skilled in financial modeling and analysis and is always looking for ways to improve processes.'}
+['https://replicate.delivery/pbxt/kXv6BG44HwIyB1u53Hcje4uvUbbXpaHpLfQCHVFRr8BVk20QA/out-0.png']
+result: {'id': 4, 'name': 'Sarah Kim', 'job': 'Graphic Designer', 'description': 'Sarah is a creative and talented designer who loves to bring ideas to life through visual communication. She is skilled in various design software and enjoys working on projects that challenge her creativity.'}
+['https://replicate.delivery/pbxt/EavwdEgP4o6wPZW6inGKZFuL5tReEL9yw7ry7sHPlPxNSbaIA/out-0.png']
+result: {'id': 5, 'name': 'Michael Chen', 'job': 'Product Manager', 'description': 'Michael is a strategic thinker who enjoys working on product development and management. He is skilled in market research and analysis and is always looking for ways to improve products and services.'}
+['https://replicate.delivery/pbxt/KUohGQPA2Pa2Gd2GZjCmwfQbr5u1abgukggoZcfvGkfAJtphA/out-0.png']
+result: {'id': 6, 'name': 'Linda Nguyen', 'job': 'Human Resources Manager', 'description': 'Linda is a people person who enjoys working with employees and helping them achieve their career goals. She is skilled in talent acquisition and management and is dedicated to creating a positive work environment.'}
+['https://replicate.delivery/pbxt/F0QQB4fdI1wFGSvnebKNQfwpP43GqbUyNZFVwsrP0zLKJtphA/out-0.png']
+result: {'id': 7, 'name': 'Daniel Brown', 'job': 'Mechanical Engineer', 'description': 'Daniel is a problem solver who enjoys designing and building mechanical systems. He is skilled in CAD software and enjoys working on projects that require both creativity and technical expertise.'}
+['https://replicate.delivery/pbxt/G9jxXLY4Rg6QMJV02O7hnHsdcfx19VrBUQeGEHmqVMbqk20QA/out-0.png']
+result: {'id': 8, 'name': 'Ava Patel', 'job': 'Data Scientist', 'description': 'Ava is a data-driven thinker who enjoys working with large datasets. She is skilled in statistical analysis and machine learning and enjoys working on projects that require both technical and analytical skills.'}
+['https://replicate.delivery/pbxt/wGYDNacZJTpIINAisyezM0xAND7f8gHWsEegXO3m66bgJtphA/out-0.png']
+result: {'id': 9, 'name': 'William Davis', 'job': 'Lawyer', 'description': 'William is a skilled legal professional who is dedicated to advocating for his clients. He is knowledgeable in various areas of law and enjoys working on cases that challenge his legal expertise.'}
+['https://replicate.delivery/pbxt/kZwSMRYPTyrlKBZ9L8NuWQjHfqoaFVOVv7xufIT4BDR1k20QA/out-0.png']
