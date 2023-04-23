@@ -10,6 +10,8 @@ import openai
 import pytz
 from tqdm import tqdm
 
+from io_tools import read_agent_file
+
 
 USE_AZURE = False
 
@@ -67,7 +69,43 @@ def api_call(prompt, model_name='ChatGPT'):
 
 
 def main(args):
-    prompt = 'Give me ' + str(args.k) + ' interesting personas. Please give each of them a first and last name. Use JSON format: {"id": ID, "name": NAME, "job": JOB, "description": DESCRIPTION}. Other instructions: a) The ID should be 0-indexed representing the order in which they are generated. b) Do not return any unnecessary text, only the personas as JSON. c) Do not respond by saying "Sure" or anything similar. d) Each line should begin with a "{" and not a number.'
+    if args.seed_file is None:
+        expdir = f'outputs/cache.n_{args.n}.k_{args.k}.temp_{str(args.temp).replace(".", "_")}'
+        os.system(f'mkdir -p {args.expdir}')
+        with open(expdir + '/flags.json', 'w') as f:
+            f.write(json.dumps(args.__dict__))
+
+        out_file = f'{expdir}/agents.jsonl'
+        run(args, out_file)
+
+    else:
+        assert args.exp_dir is not None
+        expdir = args.exp_dir
+        os.system(f'mkdir -p {expdir}')
+        with open(expdir + '/flags.json', 'w') as f:
+            f.write(json.dumps(args.__dict__))
+
+        agents = read_agent_file(args.seed_file)
+
+        for i, a in enumerate(agents):
+            out_file = f'{expdir}/agents.{i}.jsonl'
+            print(i, a)
+            run(args, out_file, agent=a)
+
+
+def run(args, out_file, agent=None):
+    prompt = 'Give me ' + str(args.k) + ' interesting personas. Please give each of them a first and last name. Use JSON format: {"id": ID, "name": NAME, "job": JOB, "description": DESCRIPTION}. Other instructions: a) The ID should be 0-indexed representing the order in which they are generated. b) Do not return any unnecessary text, only the personas as JSON. Each JSON should be on a single separate line. c) Do not respond by saying "Sure" or anything similar. d) Each line should begin with a "{" and not a number.'
+    if agent is not None:
+        prompt = f"""
+You are {agent["name"]}.
+Job: {agent["job"]}
+Description: {agent["description"]}
+
+Complete the following task:
+
+{prompt}
+""".strip()
+
     number_of_calls = args.n // (args.k * args.batch_size)
     assert args.n == args.k * args.batch_size * number_of_calls
     # response = api_call(prompt)
@@ -90,7 +128,7 @@ def main(args):
         temperature = args.temp
         max_tokens = 2048
         num_retries = 5
-        top_p = 1.0 if args.temp == 0 else 0.95
+        top_p = 0.95 if args.temp == 0 else 1.0
         for _ in range(num_retries):
             try:
                 responses = asyncio.run(dispatch_openai_requests(batch, temperature, top_p, max_tokens))
@@ -108,16 +146,17 @@ def main(args):
             print(content)
             cache.append(dict(messages=messages, content=content))
 
-    filename = f'outputs/cache.n_{args.n}.k_{args.k}.temp_{str(args.temp).replace(".", "_")}.jsonl'
-
-    print(f'writing {filename}')
-    with open(filename, 'w') as f:
+    print(f'writing {out_file}')
+    with open(out_file, 'w') as f:
         for x in cache:
             f.write(f'{json.dumps(x)}\n')
 
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
+    parser.add_argument('--exp-dir', default=None, type=str)
+    parser.add_argument('--seed-file', default=None, type=str,
+        help="Personas to generate from. NOTE: We run this separately for each persona in the list.")
     parser.add_argument('--temp', default=0.0, type=float, help="Temperature.")
     parser.add_argument('--k', default=5, type=int, help="Number of personas per request.")
     parser.add_argument('--n', default=100, type=int, help="Total amount of personas.")
