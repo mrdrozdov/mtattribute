@@ -1,4 +1,6 @@
+import collections
 import json
+import os
 
 from io_tools import read_agent_file
 
@@ -15,33 +17,46 @@ def evaluate(agents):
     print(f"""
 n = {n}
 names = {len(unames)}
-jobs = {len(ujobs)}
+jobs = {len(ujobs)}, {collections.Counter(jobs)}
 name_jobs = {len(uname_jobs)}
-        """)
+        """.strip())
+
+    stats = {}
+    stats['n'] = len(unames)
+    stats['names'] = len(unames)
+    stats['jobs'] = len(ujobs)
+    stats['name_jobs'] = len(uname_jobs)
+
+    return stats
 
 
 def main():
-    ks = [10, 5, 1]
-    ns = [100]
-    temps = ['0_0', '0_3']
+    # Read
+    seed_file = f'outputs/cache.n_100.k_10.temp_0_3/agents.jsonl'
+    agents = read_agent_file(seed_file)
+    print(f'SEED = {seed_file}')
+    evaluate(agents)
 
-    data = {}
-    for n in ns:
-        for temp in temps:
-            for k in ks:
-                # Read
-                filename = f'outputs/cache.n_{n}.k_{k}.temp_{temp}/agents.jsonl'
-                agents = read_agent_file(filename)
-                data[filename] = agents
+    results = {}
+    expdir = 'outputs/seeded-v1'
+    for filename in sorted(os.listdir(expdir)):
+        if not filename.endswith('jsonl'):
+            continue
+        print('-' * 80)
+        filename = f'{expdir}/{filename}'
+        agents = read_agent_file(filename)
+        print(f'{filename}')
+        results[filename] = evaluate(agents)
 
-    for k, agents in data.items():
-        print(k)
-        evaluate(agents)
+    print('--- BY JOBS ---')
 
-    agents = data['outputs/cache.n_{n}.k_{k}.temp_{temp}/agents.jsonl'.format(n=100, k=10, temp='0_3')]
-    for a in agents:
-        print(a)
+    for k, v in sorted(results.items(), key=lambda x: -x[1]['jobs']):
+        print(v, k)
 
+    print('--- BY NAME ---')
+
+    for k, v in sorted(results.items(), key=lambda x: -x[1]['names']):
+        print(v, k)
 
 
 if __name__ == '__main__':
