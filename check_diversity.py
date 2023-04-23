@@ -1,5 +1,7 @@
 import json
 
+from io_tools import read_agent_file
+
 
 def evaluate(agents):
     n = len(agents)
@@ -28,26 +30,17 @@ def main():
         for temp in temps:
             for k in ks:
                 # Read
-                agents = []
-                filename = f'outputs/cache.n_{n}.k_{k}.temp_{temp}.jsonl'
-                with open(filename) as f:
-                    for line in f:
-                        obj = json.loads(line)
-                        content = obj['content']
-                        # Sanitize the content.
-                        content = content.replace('}\n', '@@@')
-                        content = content.replace('\n', ' ')
-                        content = content.replace('@@@', '}\n')
-                        # Parse into agents.
-                        for a in content.split('\n'):
-                            if not a.strip():
-                                continue
-                            agents.append(json.loads(a))
+                filename = f'outputs/cache.n_{n}.k_{k}.temp_{temp}/agents.jsonl'
+                agents = read_agent_file(filename)
                 data[filename] = agents
 
     for k, agents in data.items():
         print(k)
         evaluate(agents)
+
+    agents = data['outputs/cache.n_{n}.k_{k}.temp_{temp}/agents.jsonl'.format(n=100, k=10, temp='0_3')]
+    for a in agents:
+        print(a)
 
 
 
